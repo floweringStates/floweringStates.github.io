@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Nova+Flat&display=swap');
+
+* {
+    box-sizing: border-box;
+    background-color: #D6E2D4;
+  }
+  body{
+      margin:0;
+  }
+
+/*Text styles*/
+#otherStates, #title, #searchInput{
+    font-family: 'Nova Flat', cursive;
+    color: #9D0071;
+    font-size: 36px;
+    text-align: center;
+}
+
+.baseText{
+    font-family: 'DM Sans', sans-serif;
+    background-color: transparent;
+    font-size: 18px;
+}
+
+
+/*Search Bar*/
+#searchInput{
+    border-radius: 25px;
+    padding:0px 30px;
+    border-color: #002C31;
+    color:#002C31;
+    text-align: left;
+    border-width: 2px;
+    width:100%;
+    background-color:#fff;
+    margin:auto;
+    display:inline-block;
+    position:static;
+    z-index: -1;
+    margin-bottom: 5px;
+}
+
+
+  /*Buttons*/
+
+  /*Search Button*/
+  #searchButton{
+      border: none;
+      width:2.5rem;
+      height:2.5rem;
+      margin:auto;
+      z-index: 1;
+      position: absolute;
+      right: 1rem;
+      top: 0.25rem;
+      background-color: transparent;
+      display:block;
+  }
+  .relative{
+      position: relative;
+  }
+  #searchImg{
+      width:2.5rem;
+      height:2.5rem;
+      background-color: transparent;
+  }
+
+  /*Other States*/
+  #otherStates{
+      color:#fff;
+      background-color: #54414E;
+      font-size:22px;
+      border-radius: 25px;
+      border:0px;
+      margin:auto;
+      display:block;
+      width:90%;
+      padding-top: 5px;
+      padding-bottom:5px;
+      margin-top:10px;
+  }
+  /*Details Buttons for Flower Cards*/
+  .dontShow{
+    display:none;
+  }
+
+  .moreDetails{      
+      display:inline;
+      color:#002C31;
+  }
+
+  /*State Buttons*/
+  #stateSelection button{
+     font-family: 'DM Sans', sans-serif;
+     font-size: 16px;
+     color:#002C31;
+     background-color: white;
+     border:1px solid #9966FF;   
+     padding:15px 1px;    
+  }
+
+
+  /*Flower Card Styles*/
+  .flowerCard{
+    background-color: #fff;
+    border:4px solid #54414E;
+    width:95%;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    border-radius: 25px;
+  }
+
+  .flowerCard .grid{
+    background-color: #fff;
+    display:grid;
+    grid-template:auto/auto auto;
+    grid-gap: 10px 5px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+
+  .line{
+      height: 1px;
+      background-color: #54414E;
+      grid-column: 1/3;
+  }
+
+  .flowerCard p{
+      margin:0;
+      padding-left:5px
+  }
+
+  .flowerCard .show{
+      display: inline;
+  }
+
+  .flowerCard img {
+      border-radius: 25px;
+      width:90%;
+      margin:auto;
+      margin-top:1rem;
+  }
+
+  .flowerCard button{
+      background-color: #FFD88C;
+      width:80%;
+      margin:auto;
+      margin-bottom:1rem;
+      border-radius: 25px;
+      padding-top:5px;
+      padding-bottom:5px;
+      border:0px;
+      font-family: 'Nova Flat', cursive;
+      font-size:18px;
+  }
+
+  /*State Selection Styles*/
+  #stateSelection{
+      position:relative;
+      display:grid;
+      margin:auto;
+      z-index:3;
+      background-color: #fff;
+      grid-template:auto/auto auto auto;
+      overflow-y:scroll;
+  }
+  #shade{
+      display:none;
+      position:fixed;
+      top:0;
+      left:0;
+      right:0;
+      bottom:0;
+      background-color: rgba(196, 196, 196, 0.4);
+      z-index: 2;
+  }
+
+
+  /*Media Stylings*/
+
+  /*400px or more*/
+  @media screen and (min-width:400px) {
+      #searchInput{
+          margin-bottom:12px;
+      }
+  }
+
+  /*500px or more*/
+  @media screen and (min-width:500px) {
+    .flowerCard{
+        width:80%;
+    }
+}
+
+  /*800px or more*/
+  @media screen and (min-width:800px) {
+    #flowers{
+        display:flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: stretch;
+    }
+    .flowerCard{
+        width:32%;
+        margin:5px 5px;
+    }
+    .dontShow{
+        display:inline;
+        color:#002C31;
+    }
+    .flowerCard button{
+        display:none;
+    }
+    .flowerCard img{
+        max-height: 200px;
+        margin-bottom:15px;
+    }
+    title{
+        size:56px;
+    }
+    .relative{
+        width:80%;
+        margin:auto;
+    }
+    #otherStates{
+        width:70%;
+        font-size: 32px;
+    }
+    #stateSelection{
+        width:80%;
+        overflow-y: auto;
+    }
+}
+
+@media screen and (min-width:1457px){
+    .flowerCard{
+        width:20%;
+        margin:5px;
+    }
+
+}
+  
+  

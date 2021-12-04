@@ -1,0 +1,1189 @@
+[
+    {
+        "stateAbriv":"AL",
+        "coords":{
+            "top":{
+                "lat":35.011, 
+                "long":-86.912
+            },
+            "bottom":{
+                "lat": 30.29, 
+                "long": -86.912
+            },
+            "right":{
+                "lat": 32.72,  
+                "long": -85.175
+            },
+            "left":{
+                "lat": 32.72, 
+                "long": -88.362 
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"AK",
+        "coords":{
+            "top":{
+                "lat":71.6039,
+                "long":-156.5085
+            },
+            "bottom":{
+                "lat": 55.68,
+                "long": -156.5085
+            },
+            "right":{
+                "lat": 65.5, 
+                "long": -141.03
+            },
+            "left":{
+                "lat": 65.5, 
+                "long": -168.16
+            }
+        }
+    },
+    {
+        "stateAbriv":"AZ",
+        "coords":{
+            "top":{
+                "lat":36.958, 
+                "long":-111.488
+            },
+            "bottom":{
+                "lat": 31.252,
+                "long": -111.488
+            },
+            "right":{
+                "lat": 34.249,  
+                "long": -109.005
+            },
+            "left":{
+                "lat": 34.249, 
+                "long": -114.598
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"AR",
+        "coords":{
+            "top":{
+                "lat":36.496, 
+                "long":-92.35
+            },
+            "bottom":{
+                "lat": 33.014,
+                "long": -92.35
+            },
+            "right":{
+                "lat": 34.88,  
+                "long": -90.252 
+            },
+            "left":{
+                "lat": 34.88, 
+                "long": -94.449
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"CA",
+        "coords":{
+            "top":{
+                "lat":42.031, 
+                "long":-122.474
+            },
+            "bottom":{
+                "lat": 32.607,
+                "long": -122.474
+            },
+            "right":{
+                "lat": 38.474, 
+                "long":-119.982
+            },
+            "left":{
+                "lat": 38.474,  
+                "long": -123.97
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"CO",
+        "coords":{
+            "top":{
+                "lat":41.012, 
+                "long":-105.533
+            },
+            "bottom":{
+                "lat": 36.928,
+                "long": -105.533
+            },
+            "right":{
+                "lat": 39.042, 
+                "long": -102.008
+            },
+            "left":{
+                "lat": 39.042,  
+                "long": -109.017
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"CT",
+        "coords":{
+            "top":{
+                "lat":42.0367, 
+                "long":-72.6825
+            },
+            "bottom":{
+                "lat": 40.9742,
+                "long": -72.6825
+            },
+            "right":{
+                "lat": 41.5653,  
+                "long": -71.7925
+            },
+            "left":{
+                "lat": 41.5653, 
+                "long": -73.5202
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"DE",
+        "coords":{
+            "top":{
+                "lat":39.8379,
+                "long":-75.3549
+            },
+            "bottom":{
+                "lat": 38.454, 
+                "long": -75.3549
+            },
+            "right":{
+                "lat": 39.0651, 
+                "long": -75.1983
+            },
+            "left":{
+                "lat": 39.0651,  
+                "long": -75.7422
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"DC",
+        "coords":{
+            "top":{
+                "lat":38.9962, 
+                "long":-77.0416
+            },
+            "bottom":{
+                "lat": 38.7917,
+                "long": -77.0416
+            },
+            "right":{
+                "lat": 38.8925,  
+                "long": -76.9097
+            },
+            "left":{
+                "lat": 38.8925, 
+                "long": -77.1199
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"FL",
+        "coords":{
+            "top":{
+                "lat":30.29,
+                "long":-83.715
+            },
+            "bottom":{
+                "lat": 24.232,
+                "long": -83.715
+            },
+            "right":{
+                "lat": 28.457,  
+                "long": -80.484
+            },
+            "left":{
+                "lat": 28.457, 
+                "long": -87.539
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"GA",
+        "coords":{
+            "top":{
+                "lat":35.002, 
+                "long":-83.715
+            },
+            "bottom":{
+                "lat":30.29,
+                "long":-83.715
+            },
+            "right":{
+                "lat": 32.72, 
+                "long":-81.506
+            },
+            "left":{
+                "lat": 32.72,  
+                "long": -85.175
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"GU",
+        "coords":{
+            "top":{
+                "lat":13.7014, 
+                "long":144.8468
+            },
+            "bottom":{
+                "lat": 13.1879, 
+                "long": 144.8468
+            },
+            "right":{
+                "lat": 13.41, 
+                "long": 144.9649 
+            },
+            "left":{
+                "lat": 13.41, 
+                "long": 144.5611
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"HI",
+        "coords":{
+            "top":{
+                "lat":28.216, 
+                "long":-166.724
+            },
+            "bottom":{
+                "lat": 18.623, 
+                "long": -166.724
+            },
+            "right":{
+                "lat": 24.991, 
+                "long": -154.373
+            },
+            "left":{
+                "lat": 24.991,  
+                "long": -178.635
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"ID",
+        "coords":{
+            "top":{
+                "lat":48.934,
+                "long": -114.124
+            },
+            "bottom":{
+                "lat": 42.022, 
+                "long": -114.124
+            },
+            "right":{
+                "lat": 45.653,  
+                "long": -111.201
+            },
+            "left":{
+                "lat": 45.653, 
+                "long": -117.003
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"IL",
+        "coords":{
+            "top":{
+                "lat":42.498, 
+                "long":-88.975
+            },
+            "bottom":{
+                "lat": 37.214,
+                "long": -88.975
+            },
+            "right":{
+                "lat": 40.192,  
+                "long": -87.549
+            },
+            "left":{
+                "lat": 40.192, 
+                "long": -91.526
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"IN",
+        "coords":{
+            "top":{
+                "lat":41.77, 
+                "long":-86.241
+            },
+            "bottom":{
+                "lat": 37.825,
+                "long": -86.241
+            },
+            "right":{
+                "lat": 40.192, 
+                "long": -84.813
+            },
+            "left":{
+                "lat": 40.192,  
+                "long": -87.549
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"IA",
+        "coords":{
+            "top":{
+                "lat":43.505, 
+                "long":-93.677
+            },
+            "bottom":{
+                "lat": 40.584,
+                "long": -93.677
+            },
+            "right":{
+                "lat": 41.956, 
+                "long": -90.152
+            },
+            "left":{
+                "lat": 41.956, 
+                "long": -96.426 
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"KS",
+        "coords":{
+            "top":{
+                "lat":40.023, 
+                "long":-98.48
+            },
+            "bottom":{
+                "lat": 37.006,
+                "long": -98.48
+            },
+            "right":{
+                "lat": 39.042, 
+                "long": -94.624
+            },
+            "left":{
+                "lat": 39.042, 
+                "long": -102.008 
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"KY",
+        "coords":{
+            "top":{
+                "lat":37.825,
+                "long":-85.934
+            },
+            "bottom":{
+                "lat": 36.63, 
+                "long": -85.934
+            },
+            "right":{
+                "lat": 37.512, 
+                "long": -82.605 
+            },
+            "left":{
+                "lat": 37.512, 
+                "long": -89.116
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"LA",
+        "coords":{
+            "top":{
+                "lat": 33.014,
+                "long": -92.35
+            },
+            "bottom":{
+                "lat": 28.905,
+                "long": -92.35
+            },
+            "right":{
+                "lat": 30.917, 
+                "long": -90.46
+            },
+            "left":{
+                "lat": 30.917,  
+                "long": -93.943
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"ME",
+        "coords":{
+            "top":{
+                "lat":47.442, 
+                "long":-69.07
+            },
+            "bottom":{
+                "lat": 42.966,
+                "long": -69.07
+            },
+            "right":{
+                "lat": 45.326, 
+                "long":-67.773
+            },
+            "left":{
+                "lat": 45.326, 
+                "long": -71.092 
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"MD",
+        "coords":{
+            "top":{
+                "lat":39.719, 
+                "long":-76.92
+            },
+            "bottom":{
+                "lat": 38.011,
+                "long": -76.92
+            },
+            "right":{
+                "lat": 39.0651,  
+                "long": -75.7422
+            },
+            "left":{
+                "lat": 39.0651, 
+                "long": -77.31
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"MA",
+        "coords":{
+            "top":{
+                "lat":42.718, 
+                "long":-72.103
+            },
+            "bottom":{
+                "lat":42.0367, 
+                "long": -72.103
+            },
+            "right":{
+                "lat": 42.373, 
+                "long": -70.669
+            },
+            "left":{
+                "lat": 42.373,  
+                "long": -73.405
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"MI",
+        "coords":{
+            "top":{
+                "lat":47.275, 
+                "long":-85.185
+            },
+            "bottom":{
+                "lat": 41.77, 
+                "long": -85.185                
+            },
+            "right":{
+                "lat": 44.535, 
+                "long": -82.351
+            },
+            "left":{
+                "lat": 44.535, 
+                "long": -86.966
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"MN",
+        "coords":{
+            "top":{
+                "lat":48.759, 
+                "long":-93.677
+            },
+            "bottom":{
+                "lat":43.505, 
+                "long":-93.677
+            },
+            "right":{
+                "lat": 46.126, 
+                "long": -92.327
+            },
+            "left":{
+                "lat": 46.126,  
+                "long": -96.832
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"MS",
+        "coords":{
+            "top":{
+                "lat":35.011,
+                "long":-89.746
+            },
+            "bottom":{
+                "lat": 31.028, 
+                "long": -89.746
+            },
+            "right":{
+                "lat": 32.72, 
+                "long": -88.362 
+            },
+            "left":{
+                "lat": 32.72, 
+                "long": -90.46
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"MO",
+        "coords":{
+            "top":{
+                "lat":40.584,
+                "long":-92.35
+            },
+            "bottom":{
+                "lat":36.496, 
+                "long":-92.35
+            },
+            "right":{
+                "lat": 39.042, 
+                "long": -91.526
+            },
+            "left":{
+                "lat": 39.042, 
+                "long": -94.624 
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"MT",
+        "coords":{
+            "top":{
+                "lat":48.934,
+                "long":-110.126
+            },
+            "bottom":{
+                "lat": 44.998, 
+                "long": -110.126
+            },
+            "right":{
+                "lat": 45.653, 
+                "long": -104.027
+            },
+            "left":{
+                "lat": 45.653,  
+                "long": -111.201
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"NE",
+        "coords":{
+            "top":{
+                "lat":42.995,
+                "long":-98.48
+            },
+            "bottom":{
+                "lat":40.023, 
+                "long":-98.48
+            },
+            "right":{
+                "lat": 41.956, 
+                "long": -96.426  
+            },
+            "left":{
+                "lat": 41.956, 
+                "long": -102.008
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"NV",
+        "coords":{
+            "top":{
+                "lat":42.03, 
+                "long":-117.024
+            },
+            "bottom":{
+                "lat": 35.02,
+                "long": -117.024
+            },
+            "right":{
+                "lat": 38.474, 
+                "long": -114.598
+            },
+            "left":{
+                "lat": 38.474, 
+                "long":-119.982
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"NH",
+        "coords":{
+            "top":{
+                "lat":45.278, 
+                "long":-71.274
+            },
+            "bottom":{
+                "lat": 42.718,
+                "long": -71.274
+            },
+            "right":{
+                "lat": 43.833, 
+                "long":-71.092 
+            },
+            "left":{
+                "lat": 43.833, 
+                "long": -72.191 
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"NJ",
+        "coords":{
+            "top":{
+                "lat":41.36, 
+                "long":-74.712
+            },
+            "bottom":{
+                "lat": 38.849,
+                "long": -74.712
+            },
+            "right":{
+                "lat": 40.194, 
+                "long": -73.965 
+            },
+            "left":{
+                "lat": 40.194, 
+                "long": -74.987
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"NM",
+        "coords":{
+            "top":{
+                "lat":36.928,
+                "long":-105.533
+            },
+            "bottom":{
+                "lat": 31.328,
+                "long": -105.533
+            },
+            "right":{
+                "lat": 34.249, 
+                "long": -102.008
+            },
+            "left":{
+                "lat": 34.249,  
+                "long": -109.005
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"NY",
+        "coords":{
+            "top":{
+                "lat":45.01, 
+                "long":-74.805
+            },
+            "bottom":{
+                "lat": 41.36,
+                "long": -74.805
+            },
+            "right":{
+                "lat": 42.929, 
+                "long": -73.5202
+            },
+            "left":{
+                "lat": 42.929, 
+                "long": -79.024 
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"NC",
+        "coords":{
+            "top":{
+                "lat":36.551, 
+                "long":-78.738
+            },
+            "bottom":{
+                "lat": 34.137,
+                "long": -78.738
+            },
+            "right":{
+                "lat": 35.386, 
+                "long": -75.65 
+            },
+            "left":{
+                "lat": 35.386, 
+                "long":-83.397
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"ND",
+        "coords":{
+            "top":{
+                "lat":48.934,
+                "long": -100.612
+            },
+            "bottom":{
+                "lat": 45.931,
+                "long": -100.612
+            },
+            "right":{
+                "lat": 47.41, 
+                "long": -96.832
+            },
+            "left":{
+                "lat": 47.41, 
+                "long": -102.008
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"OH",
+        "coords":{
+            "top":{
+                "lat":41.77,
+                "long":-82.737
+            },
+            "bottom":{
+                "lat": 37.825,
+                "long": -82.737
+            },
+            "right":{
+                "lat": 40.192, 
+                "long": -80.517
+            },
+            "left":{
+                "lat": 40.192, 
+                "long": -84.813
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"OK",
+        "coords":{
+            "top":{
+                "lat": 37.006,
+                "long": -98.48
+            },
+            "bottom":{
+                "lat": 33.718, 
+                "long": -98.48
+            },
+            "right":{
+                "lat": 35.27, 
+                "long": -94.449
+            },
+            "left":{
+                "lat": 35.27, 
+                "long": -102.008
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"OR",
+        "coords":{
+            "top":{
+                "lat":45.935, 
+                "long":-120.692
+            },
+            "bottom":{
+                "lat": 42.031,
+                "long": -120.692
+            },
+            "right":{
+                "lat": 44.069, 
+                "long": -117.003
+            },
+            "left":{
+                "lat": 44.069, 
+                "long": -124.211
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"PA",
+        "coords":{
+            "top":{
+                "lat": 41.36,
+                "long":-77.816
+            },
+            "bottom":{
+                "lat": 39.719,
+                "long": -77.816
+            },
+            "right":{
+                "lat": 40.903, 
+                "long": -74.987
+            },
+            "left":{
+                "lat": 40.903, 
+                "long":-80.517 
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"PR",
+        "coords":{
+            "top":{
+                "lat":18.63, 
+                "long":-66.434
+            },
+            "bottom":{
+                "lat": 17.8094, 
+                "long": -66.434
+            },
+            "right":{
+                "lat": 18.2652, 
+                "long": -65.1704
+            },
+            "left":{
+                "lat": 18.2652, 
+                "long": -68.0025
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"RI",
+        "coords":{
+            "top":{
+                "lat":42.0367, 
+                "long": -72.103
+            },
+            "bottom":{
+                "lat": 41.109,
+                "long": -72.103
+            },
+            "right":{
+                "lat": 41.5653, 
+                "long": -73.5202
+            },
+            "left":{
+                "lat": 41.5653, 
+                "long": -71.1389
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"SC",
+        "coords":{
+            "top":{
+                "lat":34.137,
+                "long":-80.903
+            },
+            "bottom":{
+                "lat": 32.032, 
+                "long": -80.903
+            },
+            "right":{
+                "lat": 32.72, 
+                "long": -78.546
+            },
+            "left":{
+                "lat": 32.72, 
+                "long":-81.506
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"SD",
+        "coords":{
+            "top":{
+                "lat": 45.931,
+                "long": -100.612
+            },
+            "bottom":{
+                "lat": 42.995,
+                "long": -100.612
+            },
+            "right":{
+                "lat": 47.38, 
+                "long": -96.832
+            },
+            "left":{
+                "lat": 47.38, 
+                "long": -102.008
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"TN",
+        "coords":{
+            "top":{
+                "lat": 36.63, 
+                "long": -85.934
+            },
+            "bottom":{
+                "lat": 35.011,
+                "long": -85.934
+            },
+            "right":{
+                "lat": 35.386, 
+                "long":-83.397
+            },
+            "left":{
+                "lat": 35.386, 
+                "long": -90.252 
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"TX",
+        "coords":{
+            "top":{
+                "lat": 33.718, 
+                "long": -98.48
+            },
+            "bottom":{
+                "lat": 25.864, 
+                "long": -98.48
+            },
+            "right":{
+                "lat": 31.082, 
+                "long": -93.943
+            },
+            "left":{
+                "lat": 31.082, 
+                "long": -102.008
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"UT",
+        "coords":{
+            "top":{
+                "lat":42.022,
+                "long":-111.488
+            },
+            "bottom":{
+                "lat":36.958, 
+                "long":-111.488
+            },
+            "right":{
+                "lat": 39.042,  
+                "long": -109.017
+            },
+            "left":{
+                "lat": 39.042, 
+                "long": -114.598
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"VT",
+        "coords":{
+            "top":{
+                "lat": 45.015, 
+                "long":-72.548
+            },
+            "bottom":{
+                "lat": 42.718,
+                "long": -72.548
+            },
+            "right":{
+                "lat": 43.833, 
+                "long": -72.191 
+            },
+            "left":{
+                "lat": 43.833, 
+                "long": -73.5202
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"VI",
+        "coords":{
+            "top":{
+                "lat":18.4539, 
+                "long": -64.9099
+            },
+            "bottom":{
+                "lat": 18.2285, 
+                "long": -64.9099
+            },
+            "right":{
+                "lat": 18.3502, 
+                "long": -64.6571 
+            },
+            "left":{
+                "lat": 18.3502, 
+                "long": -65.1379
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"VA",
+        "coords":{
+            "top":{
+                "lat":39.434, 
+                "long":-78.738
+            },
+            "bottom":{
+                "lat":36.551, 
+                "long":-78.738
+            },
+            "right":{
+                "lat": 37.512, 
+                "long": -75.782
+            },
+            "left":{
+                "lat": 37.512, 
+                "long": -82.605 
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"WA",
+        "coords":{
+            "top":{
+                "lat": 49.001, 
+                "long":-120.692
+            },
+            "bottom":{
+                "lat":45.935, 
+                "long":-120.692
+            },
+            "right":{
+                "lat": 47.492, 
+                "long": -117.003
+            },
+            "left":{
+                "lat": 47.492, 
+                "long": -124.496 
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"WV",
+        "coords":{
+            "top":{
+                "lat": 39.73, 
+                "long":-81.364
+            },
+            "bottom":{
+                "lat": 37.224, 
+                "long": -81.364
+            },
+            "right":{
+                "lat": 38.422, 
+                "long": -78.792
+            },
+            "left":{
+                "lat": 38.422, 
+                "long": -82.287
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"WI",
+        "coords":{
+            "top":{
+                "lat":46.383, 
+                "long":-89.878
+            },
+            "bottom":{
+                "lat": 42.498,
+                "long": -89.878
+            },
+            "right":{
+                "lat": 45.062, 
+                "long": -87.219
+            },
+            "left":{
+                "lat": 45.062, 
+                "long": -92.327
+            }
+            
+        }
+    },
+    {
+        "stateAbriv":"WY",
+        "coords":{
+            "top":{
+                "lat": 44.998, 
+                "long": -107.654
+            },
+            "bottom":{
+                "lat": 41.015,
+                "long": -107.654
+            },
+            "right":{
+                "lat": 43.017,  
+                "long": -102.008
+            },
+            "left":{
+                "lat": 43.017, 
+                "long": -111.201
+            }
+            
+        }
+    }
+]
