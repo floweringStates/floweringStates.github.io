@@ -25,8 +25,19 @@
 
 .imgCaption{
     font-family: 'DM Sans', sans-serif;
-    color:#D6E2D4;
+    color:#002c31ad;
+    background-color: transparent;
     font-size: 12px;
+    padding-top:2px;
+}
+
+.imgCaption a{
+    background-color:transparent;
+    color:#9966FF;
+  }
+
+.imgCaption a:visited{
+    color:#54414E;
 }
 
 
