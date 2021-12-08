@@ -8,7 +8,7 @@
         "imgSrc":"/images/Pipers_Anemone.jpg",
         "imgAlt":"A small white flower with five petals.",
         "id":1,
-        "imgAttribution":""
+        "imgAttribution":"Photo by David Prasad, found on <a href='https://www.flickr.com/photos/33671002@N00/49965974291/in/photostream/'>flickr.com/photos.</a> Used under <a href='https://creativecommons.org/licenses/by-sa/2.0/legalcode'>CC BY 2.0</a>"
     },
     {
         "commonName":"Crimson Beebalm",
@@ -19,7 +19,7 @@
         "imgSrc":"/images/Crimson_Beebalm.jpg",
         "imgAlt":"A large red flower with many small thin petals.",
         "id":2,
-        "imgAttribution":""
+        "imgAttribution":"Photo by BlueRidgeKitties, found on <a href='https://www.flickr.com/photos/blueridgekitties/4821769190'>flicker.com/photos.</a> Used under <a href='https://creativecommons.org/licenses/by-sa/2.0/legalcode'>CC BY 2.0</a>"
     },
     {
         "commonName":"Jimson Weed",
@@ -30,7 +30,7 @@
         "imgSrc":"/images/Jimson_Weed.jpg",
         "imgAlt":"A white flower with five close-knit petals.",
         "id":3,
-        "imgAttribution":""
+        "imgAttribution":"Photo by David Prasad, found on <a href='https://www.flickr.com/photos/33671002@N00/50426315212'>flicker.com/photos.</a> Used under <a href='https://creativecommons.org/licenses/by-sa/2.0/legalcode'>CC BY 2.0</a>"
     },{
         "commonName":"Rocky Mountain Bee Plant",
         "scientificName":"Peritoma Serrulata",
@@ -40,7 +40,7 @@
         "imgSrc":"/images/Rocky_Mountain_Bee_Plant.jpg",
         "imgAlt":"A vertical group of purple flowers, each with four petals.",
         "id":4,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Rocky_Mountain_Bee_Plant_(15242507237).jpg'>USFWS Mountain-Prairie</a>, <a href='https://creativecommons.org/licenses/by/2.0'>CC BY 2.0</a>, via Wikimedia Commons."
     },
     {
         "commonName":"Wright's Bird Beak",
@@ -51,7 +51,7 @@
         "imgSrc":"/images/Cordylanthus_wrightii.jpg",
         "imgAlt":"A flower with two petals, in the shape of a bird's beak.",
         "id":5,
-        "imgAttribution":""
+        "imgAttribution":"Photo by Kenraiz, found on <a href='https://commons.m.wikimedia.org/wiki/File:Cordylanthus_wrightii_kz02.jpg'> commons.m.wikimedia.org.</a> Used under <a href='https://creativecommons.org/licenses/by-sa/4.0/legalcode'>CC BY 4.0</a>"
     },
     {
         "commonName":"Thimbleweed",
@@ -62,7 +62,7 @@
         "imgSrc":"/images/Anemone_virginiana.jpg",
         "imgAlt":"A white flower with five tear-drop shaped petals.",
         "id":6,
-        "imgAttribution":""
+        "imgAttribution":"Photo by <a href='https://commons.wikimedia.org/wiki/File:Anemone_virginiana_2917.jpg'>Randy A. Nonenmacher</a>, <a href='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Bluebell Blueflower",
@@ -73,7 +73,7 @@
         "imgSrc":"/images/Campanula_rotundifolia.jpg",
         "imgAlt":"A group of three small blue flowers, with five petals each.",
         "id":7,
-        "imgAttribution":""
+        "imgAttribution":"Photo by Hans Hillewaert, © Hans Hillewaert, found on <a href='https://commons.wikimedia.org/wiki/File:Campanula_rotundifolia_(plant).jpg'>Wikimedia Commons.</a> <a href='https://creativecommons.org/licenses/by-sa/3.0/deed.en'>CC BY-SA 3.0</a>"
     },
     {
         "commonName":"Sagebrush Buttercup",
@@ -84,7 +84,7 @@
         "imgSrc":"/images/Sagebrush_Buttercup.jpg",
         "imgAlt":"Two yellow flowers with large centers and five round petals.",
         "id":8,
-        "imgAttribution":""
+        "imgAttribution":"Photo by Matt Lavin, found on <a href='https://www.flickr.com/photos/plant_diversity/5384211925'> Flickr.com.</a> <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC BY-SA 2.0</a>"
     },
     {
         "commonName":"Tassel Rue",
@@ -95,7 +95,7 @@
         "imgSrc":"/images/Tassel_Rue.jpg",
         "imgAlt":"A group of five white flowers with many small petals radiating from the center.",
         "id":9,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Trautvetteria_caroliniensis_02.jpg'>Σ64</a>, <a href='http://creativecommons.org/licenses/by-sa/3.0/'>CC BY-SA 3.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Dandelion",
@@ -106,7 +106,7 @@
         "imgSrc":"/images/Dandelion.jpg",
         "imgAlt":"A yellow flower with many small, fine petals radiating from the center.",
         "id":10,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:DandelionFlower.jpg'>Greg Hume</a>, <a href='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Henbit",
@@ -117,7 +117,7 @@
         "imgSrc":"/images/Henbit.jpg",
         "imgAlt":"A group of five purple, long, tubular flowers.",
         "id":11,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Lamium_amplexicaule_Kaldari_01.jpg'>Kaldari</a>, CC0, via Wikimedia Commons"
     },
     {
         "commonName":"Creeping Oregon Grape",
@@ -128,7 +128,7 @@
         "imgSrc":"/images/Creeping_Oregon_Grape.jpg",
         "imgAlt":"A cluster of small yellow buds.",
         "id":12,
-        "imgAttribution":""
+        "imgAttribution":"Photo by Matt Lavin, found on <a href='https://www.flickr.com/photos/plant_diversity/46305790921'>Flickr.com.</a> <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC BY-SA 2.0</a>"
     },
     {
         "commonName":"Blue Toadflax",
@@ -139,7 +139,7 @@
         "imgSrc":"/images/Blue_Toadflax.jpg",
         "imgAlt":"Three purple flowers with four petals each.",
         "id":13,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Nuttallanthus_canadensis_(14244371424)_4x3.jpg'>Fritz Flohr Reynolds</a>, <a href='https://creativecommons.org/licenses/by-sa/2.0'>CC BY-SA 2.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Sharp-Lobed Hepatica",
@@ -150,7 +150,7 @@
         "imgSrc":"/images/Sharp_lobed_Hepatica.jpg",
         "imgAlt":"Three white flowers with six long ovular petals",
         "id":14,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Anemone_acutiloba_1247.jpg'>Randy Nonenmacher</a>, <a href='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Thimbleberry",
@@ -161,7 +161,7 @@
         "imgSrc":"/images/Thimbleberry.jpg",
         "imgAlt":"A white flower with five tear-drop shaped petals.",
         "id":15,
-        "imgAttribution":""
+        "imgAttribution":"Photo by Matt Lavin, found on <a href='https://www.flickr.com/photos/plant_diversity/8094494188'>Flickr.com.</a> <a href='https://creativecommons.org/licenses/by-sa/2.0/'>CC BY-SA 2.0</a>"
     },
     {
         "commonName":"One-flowered Broomrape",
@@ -172,7 +172,7 @@
         "imgSrc":"/images/One_flowered_Broomrape.jpg",
         "imgAlt":"A group of small, white flowers with five petals each.",
         "id":16,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Orobanche_uniflora_May2021_Maine.jpg'>River Bissonnette</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Littleleaf Buttercup",
@@ -183,7 +183,7 @@
         "imgSrc":"/images/Littleleaf_Buttercup.jpg",
         "imgAlt":"A yellow flower with a large center and five small petals.",
         "id":17,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Ranunculus_abortivus.jpg'>Frank Mayfield</a>, <a href='https://creativecommons.org/licenses/by-sa/2.0'>CC BY-SA 2.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Sawtooth Blackberry",
@@ -194,7 +194,7 @@
         "imgSrc":"/images/Sawtooth_Blackberry.jpg",
         "imgAlt":"Three white flowers with five thin petals each.",
         "id":18,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Blackberry_Rubus_argutus_3_flowers.jpg'>Dcrjsr</a>, <a href='https://creativecommons.org/licenses/by/3.0'>CC BY 3.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Kudzu",
@@ -205,7 +205,7 @@
         "imgSrc":"/images/Kudzu.jpg",
         "imgAlt":"A flowering vine with purple buds.",
         "id":19,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Flowering_kudzu.jpg'>Photo by Peggy Greb.</a>, Public domain, via Wikimedia Commons"
     },
     {
         "commonName":"Cornflower",
@@ -216,7 +216,7 @@
         "imgSrc":"/images/Cornflower.jpg",
         "imgAlt":"Three blue flowers with several petals radiating from the center.",
         "id":20,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Cornflowers_Centaurea_cyanus.jpg'>Čeština:  Petr Vodička, Wikipedie English:  Petr Vodička, Wikipedia</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Cutleaf Geranium",
@@ -227,7 +227,7 @@
         "imgSrc":"/images/Cutleaf_Geranium.jpg",
         "imgAlt":"A purple flower with five heart-shaped petals.",
         "id":21,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Geranium_February_2008-1.jpg'>Alvesgaspar</a>, <a href='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Crimson Clover",
@@ -238,7 +238,7 @@
         "imgSrc":"/images/Crimson_Clover.jpg",
         "imgAlt":"A vertical grouping of small red flowers.",
         "id":22,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Trifolium_incarnatum,_2021-05-20,_Beechview,_02.jpg'>Cbaile19</a>, CC0, via Wikimedia Commons"
     },
     {
         "commonName":"Hairy Bittercress",
@@ -249,7 +249,7 @@
         "imgSrc":"/images/Hairy_Bittercress.jpg",
         "imgAlt":"Three small white flowers with four small, thin petals.",
         "id":23,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Cardamine_hirsuta_kz09.jpg'>Krzysztof Ziarnek, Kenraiz</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Jamaican Feverplant",
@@ -260,7 +260,7 @@
         "imgSrc":"/images/Jamaican_Feverplant.jpg",
         "imgAlt":"A yellow flower with five round petals.",
         "id":24,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Starr_040316-0003_Tribulus_cistoides.jpg'>Forest &amp; Kim Starr</a>, <a href='https://creativecommons.org/licenses/by/3.0'>CC BY 3.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"White Campion",
@@ -271,7 +271,7 @@
         "imgSrc":"/images/White_Campion.jpg",
         "imgAlt":"A white flower with five heart-shaped petals.",
         "id":25,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:(MHNT)_Silene_latifolia_-_flower.jpg'>Muséum de Toulouse</a>, <a href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Red-osier Dogwood",
@@ -282,7 +282,7 @@
         "imgSrc":"/images/Red_osier_Dogwood.jpg",
         "imgAlt":"A group of small white flowers with four petals each.",
         "id":26,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Cornus_sericea_RF.jpg'>Robert Flogaus-Faust</a>, <a href='https://creativecommons.org/licenses/by/4.0'>CC BY 4.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Bunchberry",
@@ -293,7 +293,7 @@
         "imgSrc":"/images/Bunchberry.jpg",
         "imgAlt":"A white flower with four petals.",
         "id":27,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Cornus_canadensis_01.JPG'>Dominicus Johannes Bergsma</a>, <a href='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Fireweed",
@@ -304,7 +304,7 @@
         "imgSrc":"/images/Fireweed.jpg",
         "imgAlt":"A vertical grouping of purple flowers with four petals.",
         "id":28,
-        "imgAttribution":""
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Maitohorsma_(Epilobium_angustifolium).JPG'>kallerna</a>, <a href='https://creativecommons.org/licenses/by-sa/3.0'>CC BY-SA 3.0</a>, via Wikimedia Commons"
     },
     {
         "commonName":"Japanese Knotweed",
@@ -315,6 +315,6 @@
         "imgSrc":"/images/Japanese_Knotweed.jpg",
         "imgAlt":"A group of small white flowers.",
         "id":29,
-        "imgAttribution":""        
+        "imgAttribution":"<a href='https://commons.wikimedia.org/wiki/File:Fallopia_japonica3.jpg'>KENPEI</a>, <a href='http://creativecommons.org/licenses/by-sa/3.0/'>CC BY-SA 3.0</a>, via Wikimedia Commons"        
     }
 ]

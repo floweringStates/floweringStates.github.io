@@ -23,6 +23,12 @@
     font-size: 18px;
 }
 
+.imgCaption{
+    font-family: 'DM Sans', sans-serif;
+    color:#D6E2D4;
+    font-size: 12px;
+}
+
 
 /*Search Bar*/
 #searchInput{
@@ -233,6 +239,9 @@
     #stateSelection{
         width:80%;
         overflow-y: auto;
+    }
+    .imgCaption{
+        font-size: 18px;
     }
 }
 

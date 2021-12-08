@@ -10,6 +10,7 @@ export function buildFlowerCard(flower){
 
     return `<section class="flowerCard"> 
     <img src="${flower.imgSrc}" alt="${flower.imgAlt}" width="250" max-hight="250">
+    <p class="imgCaption">${flower.imgAttribution}</p>
     <section class="grid">
     <p class="baseText show">Common Name:</p>
     <p class="baseText show">${flower.commonName}</p>
