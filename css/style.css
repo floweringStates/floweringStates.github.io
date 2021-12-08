@@ -3,10 +3,10 @@
 * {
     box-sizing: border-box;
     background-color: #D6E2D4;
-    padding:5px;
   }
   body{
       margin:0;
+      padding:5px;
   }
 
 /*Text styles*/
