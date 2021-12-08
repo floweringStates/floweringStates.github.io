@@ -41,6 +41,11 @@
     color:#54414E;
 }
 
+.footer p, .footer p a:visited, .footer p a{
+    color:#002C31;
+    font-size:12px;
+}
+
 
 /*Search Bar*/
 #searchInput{
