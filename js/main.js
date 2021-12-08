@@ -44,7 +44,7 @@ let details = document.getElementsByClassName("detailsButton");
 for(let i =0; details.length>i; i++){
     details[i].addEventListener('click', (e)=>{
         e.preventDefault();
-        moreDetails(details[i].classList.item(1));
+        moreDetails(details[i].id);
     })
 };
 }
