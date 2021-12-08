@@ -63,23 +63,22 @@ async function getData(url){
     }
 }
 
-let searchTermCAPS;
 
 export async function search(searchTerm){
         let array = [];
         let isState;
         let data = await getData("/js/wildflowers.json");
-        searchTerm = searchTerm.toLowerCase();
-        searchTerm = searchTerm[0].toUpperCase()+searchTerm.slice(1);
-        searchTermCAPS = searchTerm.toUpperCase();
+        searchTerm = searchTerm.toUpperCase();
         data.forEach(element => {
-            if(element.commonName.includes(searchTerm)||element.scientificName.includes(searchTerm)){
+            let commonName = element.commonName.toUpperCase();
+            let scientificName = element.scientificName.toUpperCase();
+            if(commonName.includes(searchTerm)||scientificName.includes(searchTerm)){
                 array.push(element);
                 isState = false;
             }
             else{
                 
-                let state = getStateAbriviation(searchTermCAPS);
+                let state = getStateAbriviation(searchTerm);
                 if(state == -404){
                     console.log("State Not Found.");
                 }
@@ -97,7 +96,7 @@ export async function search(searchTerm){
                 capState = stateFullName[index];
             }
             else{
-                capState = searchTermCAPS;
+                capState = searchTerm;
             }
             
             capState = capState.toLowerCase();
