@@ -122,7 +122,7 @@ export default class Flowers{
     <p class="baseText lessDetails${flower.id} dontShow">${flower.family}</p>
     <div class="line lessDetails${flower.id} dontShow"></div>
     </section>
-    <button type="button" class="detailsButton ${flower.id}">More Details</button>
+    <button type="button" class="detailsButton${flower.id}">More Details</button>
     </section>`
     }
 

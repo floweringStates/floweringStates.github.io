@@ -27,7 +27,7 @@ export function buildFlowerCard(flower){
     <p class="baseText lessDetails${flower.id} dontShow">${flower.family}</p>
     <div class="line lessDetails${flower.id} dontShow"></div>
     </section>
-    <button type="button" class="detailsButton ${flower.id}">More Details</button>
+    <button type="button" class="detailsButton${flower.id}">More Details</button>
     </section>`
 }
 
@@ -172,7 +172,7 @@ export async function moreDetails(flower){
     }
     
     //change button text
-    let buttonTxt = document.querySelector('.'+flower);
+    let buttonTxt = document.querySelector('.detailsButton'+flower);
     if (buttonTxt.innerHTML == "More Details"){
         buttonTxt.innerHTML = "Less Details";
     }
