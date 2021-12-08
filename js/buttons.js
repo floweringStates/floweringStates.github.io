@@ -32,7 +32,7 @@ export function buildFlowerCard(flower){
 }
 
 function checkState(state){
-    return searchTermCAPS == state;
+    return searchTermState == state;
 }
 
 function getStateAbriviation(state){
@@ -63,12 +63,14 @@ async function getData(url){
     }
 }
 
+let searchTermState;
 
 export async function search(searchTerm){
         let array = [];
         let isState;
         let data = await getData("/js/wildflowers.json");
         searchTerm = searchTerm.toUpperCase();
+        searchTermState = searchTerm;
         data.forEach(element => {
             let commonName = element.commonName.toUpperCase();
             let scientificName = element.scientificName.toUpperCase();
