@@ -3,10 +3,21 @@ import States from "./States.js";
 import { search, stateSelection, buildFlowerCard, moreDetails } from "./buttons.js";
 
 
+let searchButton = document.getElementById("searchButton");
+let stateButton = document.getElementById("otherStates");
+
+
 let geolocation;
 await getCoords().then(r=>{
     geolocation = makeCoords(r);
 });
+
+document.addEventListener('keydown', function(event){
+    if(event.code === 13){
+        console.log('Speak friend, and Enter');
+        searchButton.click();
+    }
+})
 
 let state = new States(geolocation);
 await state.init();
@@ -16,9 +27,6 @@ let flowers = new Flowers("/js/wildflowers.json", state.state);
 await flowers.init();
 details();
 
-
-let searchButton = document.getElementById("searchButton");
-let stateButton = document.getElementById("otherStates");
 
 document.querySelector('#searchButton').addEventListener('click', async (e) => {
     e.preventDefault();
