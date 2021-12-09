@@ -113,6 +113,7 @@ export async function search(searchTerm){
         else{
             document.getElementById("title").innerHTML = "Search Results";
         }
+        scroll(0,0);
         return array;
 }
 
