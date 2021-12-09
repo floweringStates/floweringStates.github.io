@@ -12,7 +12,8 @@ await getCoords().then(r=>{
 });
 
 document.addEventListener('keydown', function(event){
-    if(event.code === 'NumpadEnter' || event.code === 'Enter' || event.which === 13){
+    alert(event.key);
+    if(event.code === 'NumpadEnter' || event.code === 'Enter' || event.key === 'Enter'){
         console.log('Speak friend, and Enter');
         searchButton.click();
     }
