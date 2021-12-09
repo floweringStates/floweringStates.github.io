@@ -4,7 +4,6 @@ import { search, stateSelection, buildFlowerCard, moreDetails } from "./buttons.
 
 
 let searchButton = document.getElementById("searchButton");
-let stateButton = document.getElementById("otherStates");
 
 
 let geolocation;
@@ -13,7 +12,7 @@ await getCoords().then(r=>{
 });
 
 document.addEventListener('keydown', function(event){
-    if(event.code === 13){
+    if(event.code === 'NumpadEnter' || event.code === 'Enter'){
         console.log('Speak friend, and Enter');
         searchButton.click();
     }
@@ -43,7 +42,6 @@ document.querySelector('#searchButton').addEventListener('click', async (e) => {
 
 document.querySelector('#otherStates').addEventListener('click', async (e) => {
     e.preventDefault();
-    console.log("States were clicked!");
     await stateSelection();
 });
 
