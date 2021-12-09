@@ -61,6 +61,7 @@ async function getData(url){
     }
     }catch (err){
         console.log(err);
+        alert('Problem Getting Flowers, please try again later!')
     }
 }
 
@@ -109,7 +110,6 @@ export async function search(searchTerm){
         else{
             document.getElementById("title").innerHTML = "Search Results";
         }
-        console.log("You searched: " + searchTerm +"!");
         return array;
 }
 

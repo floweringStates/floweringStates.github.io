@@ -12,9 +12,7 @@ await getCoords().then(r=>{
 });
 
 document.addEventListener('keydown', function(event){
-    alert(event.key);
     if(event.code === 'NumpadEnter' || event.code === 'Enter' || event.key === 'Enter'){
-        console.log('Speak friend, and Enter');
         searchButton.click();
     }
 })
@@ -66,7 +64,6 @@ function getCoords(){
 function makeCoords(r){
     const position = r;
     let coords = {lat:position.coords.latitude, long:position.coords.longitude};
-    console.log("I was Called!");
     return coords;
 }
 
