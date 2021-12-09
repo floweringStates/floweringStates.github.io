@@ -106,6 +106,9 @@ export async function search(searchTerm){
             capState = capState.toLowerCase();
             capState = capState[0].toUpperCase()+capState.slice(1);
             document.getElementById("title").innerHTML = "Wildflowers in " + capState;
+            if(document.getElementById("searchInput").value != ""){
+                document.getElementById("searchInput").value = "";
+            }
         }
         else{
             document.getElementById("title").innerHTML = "Search Results";
